@@ -1,0 +1,3 @@
+Do
+MsgBox"ERROR"
+Loop
